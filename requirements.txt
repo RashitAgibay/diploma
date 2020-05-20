@@ -15,7 +15,7 @@ djangorestframework==3.10.3
 djangorestframework-simplejwt==4.3.0
 et-xmlfile==1.0.1
 geoip2==3.0.0
-httplib2==0.17.0
+httplib2==0.18.0
 idna==2.8
 jdcal==1.4.1
 joblib==0.14.1
