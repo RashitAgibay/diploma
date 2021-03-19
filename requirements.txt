@@ -11,7 +11,7 @@ Django==2.2.5
 django-import-export==1.2.0
 django-random-queryset==0.1.2
 django-rest-knox==4.1.0
-djangorestframework==3.10.3
+djangorestframework==3.11.2
 djangorestframework-simplejwt==4.3.0
 et-xmlfile==1.0.1
 geoip2==3.0.0
