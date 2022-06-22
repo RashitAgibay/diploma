@@ -20,7 +20,7 @@ idna==2.8
 jdcal==1.4.1
 joblib==0.14.1
 maxminddb==1.5.2
-numpy==1.18.3
+numpy==1.22.0
 odfpy==1.4.0
 openpyxl==3.0.0
 pandas==1.0.3
